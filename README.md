@@ -41,16 +41,11 @@ Tabela de conteúdos
 
 ## ⚙️ Funcionalidades
 
-- :white_check_mark: Realizar Operações matemáticas.
 - :white_check_mark: Realizar cadastro das suas postagens. 
-
 - :white_check_mark: Realizar alteração das suas postagens. 
-
 - :white_check_mark: Realizar a exclusão das suas postagens. 
-
 - :white_check_mark: Realizar pesquisas das suas postagens. 
-
-- :white_check_mark: Realizar comentário em sua postagem. 
+- :white_check_mark: Realizar comentário em suas postagem. 
 
  
 ---
