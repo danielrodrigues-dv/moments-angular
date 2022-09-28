@@ -118,7 +118,7 @@ As seguintes tecnologias foram usadas na construção do projeto:
 
 -   **[Angular 14](https://angular.io/)** 
 -   **[NodeJs](https://nodejs.org/)**
--   **[AddonisJs](https://adonisjs.com/)**
+-   **[AdonisJs](https://adonisjs.com/)**
 ---
 
 ## 🦸🏻‍♂️ Autor
