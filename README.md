@@ -45,7 +45,7 @@ Tabela de conteúdos
 - :white_check_mark: Realizar alteração das suas postagens. 
 - :white_check_mark: Realizar a exclusão das suas postagens. 
 - :white_check_mark: Realizar pesquisas das suas postagens. 
-- :white_check_mark: Realizar comentário em suas postagem. 
+- :white_check_mark: Realizar comentário em suas postagens. 
 
  
 ---
