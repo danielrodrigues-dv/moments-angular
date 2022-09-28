@@ -26,7 +26,7 @@ Tabela de conteúdos
    * [Layout](#-layout)
    * [Como executar o projeto](#-como-executar-o-projeto)
      * [Pré-requisitos](#pré-requisitos)
-     * [Rodando a aplicação](#-rodando-a-aplicação)
+     * [Rodando a aplicação](#-Rodando-a-aplicação-Web)
    * [Tecnologias](#-tecnologias)
    * [Autor](#-autor)
    * [Licença](#-licença)
@@ -74,32 +74,51 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 
 
-#### 🧭 Rodando a aplicação
+#### 🧭 Rodando a aplicação Web
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/danielrodrigues-dv/Calculadora-React.git
+$ git clone https://github.com/danielrodrigues-dv/moments-angular.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd Calculadora-React
+$ cd moments
 
 # Instale as dependências
 $ yarn install # ou npm install
 
 # Execute a aplicação
-$ yarn start # ou npm start
+$ ng server
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+# A aplicação será aberta na porta:4200 - acesse http://localhost:4200
+
+```
+
+
+#### 🧭 Rodando a API
+```bash
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd api
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação
+$ node ace serve
+
+# Todos os endpoint da api
+$ Saiba mais - https://github.com/danielrodrigues-dv/moments-angular
 
 ```
 ---
 
 ## 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes tecnologias foram usadas na construção do projeto:
 
--   **[React](https://reactjs.org/)** 
+-   **[Angular 14](https://angular.io/)** 
 -   **[NodeJs](https://nodejs.org/)**
+-   **[AddonisJs](https://adonisjs.com/)**
 ---
 
 ## 🦸🏻‍♂️ Autor
