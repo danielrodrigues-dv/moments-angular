@@ -59,7 +59,7 @@ O layout da aplicação está disponível no Netlify:
 </a>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="danielrodrigues-dv" title="#Software-em-C" src="https://i.ibb.co/XtwmNCN/calculadora-react.jpg" />
+  <img alt="danielrodrigues-dv" title="#Software-em-C" src="https://raw.githubusercontent.com/danielrodrigues-dv/moments-angular/main/moments/src/assets/banner-moments.png" />
 </p>
 
 ---
