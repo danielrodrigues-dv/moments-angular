@@ -1,0 +1,105 @@
+/* You can add global styles to this file, and also import other style files */
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Cambria;
+    box-sizing: border-box;
+    color: #444;
+}
+
+a{
+    text-decoration: none;
+    color: #444;
+    transition: 0.4s;
+}
+
+a:hover{
+    color: #dec129
+}
+
+
+/* FORM */
+
+form {
+    width: 450px;
+    margin: 0 auto;
+}
+
+.form-group{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+
+.form-group label{
+    font-weight: bold;
+    font-size: 0.9em;
+    margin-bottom: 0.4em;
+}
+
+.form-group input, .form-group textarea{
+    padding: 0.6em;
+    color: #777;
+    font-size: 0.8em;
+}
+
+input[type="submit"]{
+    background-color: #EFEFEF;
+    border: 2px solid transparent;
+    padding: 0.6em 1em;
+    font-weight: bold;
+    font-size: 1.1em;
+    cursor: pointer;
+    transition: 0.4s;
+}
+input[type="submit"]:hover{
+    color: #DEC129;
+    border-color: #dec129;
+    background-color: transparent;
+
+}
+
+
+.validation-error-css p {
+    color: #dC3545;
+    margin-top: 0.4em;
+    border-left: 3px solid #dC3545;
+    padding-left: 0.2em;
+}
+
+/* BUTTONS */
+.edit-btn, .remove-btn{
+    border: 1px solid #EFEFEF;
+    padding: 0.4em 1em;
+    font-size: 1em;
+    margin: 0 0.5em;
+    cursor: pointer;
+    background-color: #FFF;
+    transition: 0.4s;
+}
+
+a #btn-edit{
+margin-right: 0.2em;
+}
+
+.edit-btn, .edit-btn path {
+    border-color: #007BFF;
+    color: #007BFF;
+}
+
+.edit-btn:hover, .edit-btn:hover path{
+background-color: #007BFF;
+    color: #FFF;
+}
+
+
+.remove-btn, .edit-btn path {
+    border-color: #dc3545;
+    color: #dc3545;
+}
+
+.remove-btn:hover, .edit-btn:hover path{
+background-color: #dc3545;
+    color: #FFF;
+}
