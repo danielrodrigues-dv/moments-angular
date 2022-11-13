@@ -1,14 +1,14 @@
 <h1 align="center">Record your moments</h1>			
 <br>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/danielrodrigues-dv/Software-em-C?style=flat-square&&color=%2304D361" />
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/danielrodrigues-dv/Software-em-C?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/danielrodrigues-dv/Software-em-C?style=flat-square" />
-	<a href="https://github.com/danielrodrigues-dv/Software-em-C/blob/master/LICENSE">
-  <img src="https://img.shields.io/github/license/danielrodrigues-dv/Software-em-C?style=flat-square&" />
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/danielrodrigues-dv/moments-angular?style=flat-square&&color=%2304D361" />
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/danielrodrigues-dv/moments-angular?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/danielrodrigues-dv/moments-angular?style=flat-square" />
+	<a href="https://github.com/danielrodrigues-dv/moments-angular/blob/master/LICENSE">
+  <img src="https://img.shields.io/github/license/danielrodrigues-dv/moments-angular?style=flat-square&" />
 	</a>
-  <a href="https://github.com/danielrodrigues-dv/Software-em-C/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danielrodrigues-dv/Software-em-C?style=flat-square&">
+  <a href="https://github.com/danielrodrigues-dv/moments-angular/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danielrodrigues-dv/angular-moments?style=flat-square&">
   </a>
   <a href="https://github.com/danielrodrigues-dv">
     <img alt="Feito por danielrodrigues-dv" src="https://img.shields.io/badge/feito%20por-Daniel%20Rodrigues-%237519C1?style=flat-square&">
@@ -59,7 +59,7 @@ O layout da aplicação está disponível no Netlify:
 </a>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="danielrodrigues-dv" title="#Software-em-C" src="https://raw.githubusercontent.com/danielrodrigues-dv/moments-angular/main/moments/src/assets/banner-moments.png" />
+  <img alt="danielrodrigues-dv" title="#moments-angular" src="https://raw.githubusercontent.com/danielrodrigues-dv/moments-angular/main/moments/src/assets/banner-moments.png" />
 </p>
 
 ---
